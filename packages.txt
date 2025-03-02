@@ -1,0 +1,28 @@
+packages to install (recommend to install for dotfiles and not only)
+
+package name	description
+
+vlc 		/media player
+audacity	
+dropbox
+keepassxc
+spotify		/media player.
+krita		/photo editor.
+htop		/task manager.
+neofetch	/command-line system information tool.
+i3status    / for window manager.
+i3 		/i3 window manager.
+discord		/messanger.
+telegram-desktop /messanger.
+git		/git tool.
+vscode 		/code editor.
+nano 		/command-line text editor.
+dolphin		/file manager.
+polybar		/not necessary, you can use i3status
+google-chrome	/web browser, support in most of package managers.
+chromium	/open-source web browser.
+falkon 		/web browser, not necessary.
+firefox		/mostly installed in system and not necessary.
+pulseaudio	/sound server system, mostly build-in in systems like Ubuntu , Debian , Manjaro.
+
+
